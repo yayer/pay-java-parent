@@ -17,7 +17,7 @@ public class WxPayConfigStorage extends BasePayConfigStorage {
     /**
      * 微信分配的公众账号ID
      */
-    private String appid ;
+    private String appid="wxf959a1724b0e8c07";
     /**
      * 微信分配的子商户公众账号ID
      */
@@ -25,7 +25,7 @@ public class WxPayConfigStorage extends BasePayConfigStorage {
     /**
      *  微信支付分配的商户号 合作者id
      */
-    private String mchId;
+    private String mchId="1503688251";
     /**
      *  微信支付分配的子商户号，开发者模式下必填 合作者id
      */
